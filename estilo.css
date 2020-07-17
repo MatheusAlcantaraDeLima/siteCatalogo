@@ -1,0 +1,24 @@
+html{
+	scroll-behavior: smooth;
+}
+header h1{
+	text-align: center;
+}
+div img{
+	width: 500px;
+	height: 500px;
+}
+h2{
+	background-color: black;
+	color: white;
+	border-radius: 25px;
+}
+footer{
+	margin-bottom: 0px;
+}
+div#creditos{
+	background-color: black;
+	color: white;
+	border-radius: 5px;
+	padding: 5px;
+}
